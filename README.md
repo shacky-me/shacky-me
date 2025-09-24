@@ -1,5 +1,3 @@
-[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW96Y3Rya2ZpcDZmeTcxcWUxbmZzY2FidmJzMXk3NTdoN2lzaGlmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AuKXmS85YAwcCYexAa/giphy.gif]
-
 # 💫 About Me:
 🎓 Bachelor's Degree in Business Information Technology from The Cooperative University of Kenya<br>💻 Frontend Web Development Specialist (ALX Software Engineering Program Graduate)<br>🔧 Passionate about creating responsive, accessible, and high-performance web applications<br>🎯 My goal is to innovate and drive growth within the tech industry through impactful projects and clean design<br>📚 Lifelong learner dedicated to staying updated with emerging technologies
 
