@@ -1,5 +1,4 @@
-![HeyGirlHeyHeyThereGIF](https://github.com/user-attachments/assets/ae54791c-6eaa-491b-973a-05d11c31a9d5)
-![Hello, there](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJoNGVqMDEyMmhodXhiZDBiN2drbHhkcDYyYnN0aGZhcm1qNWR0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbDGv1VnVF0QWOBXoe/giphy.gif)
+![Hello, there](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdnc2g1bHVxNjE5YjkzdW84MDR3bWwwOXQ0Z3c3ZXIydWYyY213NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u47skgWgE6E2ejacaR/giphy.gif)
 
 # 💫 About Me:
 🎓 Bachelor's Degree in Business Information Technology from The Cooperative University of Kenya<br>💻 Frontend Web Development Specialist (ALX Software Engineering Program Graduate)<br>🔧 Passionate about creating responsive, accessible, and high-performance web applications<br>🎯 My goal is to innovate and drive growth within the tech industry through impactful projects and clean design<br>📚 Lifelong learner dedicated to staying updated with emerging technologies
